@@ -1,0 +1,5 @@
+C:\Users\johnh\AppData\Local\AmosDevelopment\Amos\25\Plugins\Amos-EraseSelected.dll
+C:\Users\johnh\AppData\Local\AmosDevelopment\Amos\25\Plugins\Amos-EraseSelected.pdb
+C:\Users\johnh\Amos\Amos-EraseSelected\Amos-EraseSelected\obj\Debug\Amos-EraseSelected.vbprojResolveAssemblyReference.cache
+C:\Users\johnh\Amos\Amos-EraseSelected\Amos-EraseSelected\obj\Debug\Amos-EraseSelected.dll
+C:\Users\johnh\Amos\Amos-EraseSelected\Amos-EraseSelected\obj\Debug\Amos-EraseSelected.pdb
